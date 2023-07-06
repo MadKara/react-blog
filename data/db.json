@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 1st posttt",
+      "datetime": "June 29, 2023 4:49:27 PM",
+      "body": "11111111111111111111111111111111111111111111111111111111"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd post",
+      "datetime": "28.06.2023",
+      "body": "22222222222222"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd post",
+      "datetime": "28.06.2023",
+      "body": "33333333333333"
+    },
+    {
+      "id": 4,
+      "title": "My 4th post",
+      "datetime": "28.06.2023",
+      "body": "44444444444444"
+    },
+    {
+      "id": 5,
+      "title": "іукіавппппffа",
+      "datetime": "July 06, 2023 3:01:43 PM",
+      "body": "вапвапвпfff"
+    },
+    {
+      "id": 6,
+      "title": "fff",
+      "datetime": "June 29, 2023 4:54:26 PM",
+      "body": "sdfsf"
+    },
+    {
+      "id": 7,
+      "title": "dfgdfgd",
+      "datetime": "June 29, 2023 4:54:54 PM",
+      "body": "hghghghg"
+    }
+  ]
+}
